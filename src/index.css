@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  color: #ffff;
+}
+
+#cb3 {
+  accent-color:#FFC107;
+}
+
+.fullHeight {
+  height: 100vh;
+}
+
+.playAreaPadding {
+  padding-top: 70px;
+}
+
+.playAreaHeight {
+  height: 100vh;
+}
+
+.playAreaNavBg {
+  background-color: #e74c3c;
+}
+
+.svgWidth {
+  width: 25px;
+}
+
+.text-area {
+  resize: none;
+}
+
+.text-yellow {
+  .text-yellow-700 {
+    color: #ca8a04;
+  }
+}
+
+.text-gray {
+  color: #d1d5db;
+}
